@@ -10,7 +10,7 @@ RUN printf '%s\n' \
   '<html lang="es">' \
   '<meta charset="utf-8">' \
   '<title>ARWEB002</title>' \
-  '<h1>ARWEB002 funcionando</h1>' \
+  '<h1>ARWEB002 actualizado automaticamente - VERSION 2</h1>' \ \
   '<p>Desplegado desde GitHub Container Registry</p>' \
   > /app/index.html
 
